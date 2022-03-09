@@ -1,2 +1,2 @@
 #!/bin/bash
-echo [A[A[B[B$((128 +$TRUEKNOWLEDGE))
+echo $((128 + $TRUEKNOWLEDGE))
